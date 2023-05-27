@@ -97,10 +97,10 @@
 
 }
 #buttons{
-    width: 100%;
+    width: 150%;
     display: flex;
     justify-content: space-evenly;
-    margin-left: 70%;
+    margin-left: 55%;
     padding: 50px;
 }
 #buttons a {
